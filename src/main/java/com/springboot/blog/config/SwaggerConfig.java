@@ -22,7 +22,7 @@ public class SwaggerConfig {
     }
     private ApiInfo apiInfo(){
         return new ApiInfo(
-                "Blog REST APIs",
+                "BlogApp REST APIs",
                 "Blog app",
                 "1",
                 "Terms of service",
